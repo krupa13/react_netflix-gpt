@@ -1,9 +1,10 @@
 import './App.css';
+import Body from './components/Body';
 
 function App() {
   return (
-    <div className="App font-bold text-center text-3xl">
-      Welcome to Netflix GPT React.
+    <div>
+      <Body />
     </div>
   );
 }
