@@ -1,6 +1,20 @@
 # Netflix GPT
     - Create Reaect App
     - Configured Tailwind CSS
+    - Header
+    - Routing of App
+    - Login Form
+    - Sign Up form
+    - Form Validations
+    - useRef Hook
+    - Firebase Setup
+    - Deploying our app to production
+    - Create Sign Up user account
+    - Implement Sign In user API
+    - Create Redux store with userSlice
+    - Impleted Sign Out
+    - Update Profile
+    - Fetch Movies from TMDB Movies
 
 # Features
 - Login / Sign UP
